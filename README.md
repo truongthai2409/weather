@@ -1,3 +1,3 @@
-# weather
-Heello everyone 
+# Weather with JS
+Hello everyone 
 this is my fist mini project with javascript languages
